@@ -1,6 +1,3 @@
-# Digit_Recognizer
-This repository is for MSDS 422 and will be looking at the MNIST data set from Kaggle.
-
 # Digit Recognizer
 ## Overview
 This repository is for MSDS 422 and will be looking at the [MNIST data set from Kaggle](https://www.kaggle.com/c/digit-recognizer/overview).
